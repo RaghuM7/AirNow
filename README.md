@@ -6,9 +6,6 @@ This project is aiming at providing a instant air quality index to the users bas
 
 It is using create-react-app for development.
 
-Usage
-Visit -> https://airnow.dawei.io/
-
 or
 
 # install dependencies
