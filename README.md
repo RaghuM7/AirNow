@@ -1,16 +1,17 @@
-## AirNow
+# AirNow
 An Air Quality App Built With React.JS
 
-# Introduce
+## Introduce
 This project is aiming at providing a instant air quality index to the users based on their geolocation.
 
 It is using create-react-app for development.
 
-# install dependencies
+## install dependencies
 npm i 
-# run app
+## run app
 npm start
-# build app
+## build app
 npm build
-API
+
+## API
 Backend API powered by The World Air Quality Index (AQI) Project
